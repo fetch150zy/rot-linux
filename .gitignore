@@ -154,7 +154,6 @@ x509.genkey
 /allno.config
 /allrandom.config
 /allyes.config
-!.config
 
 # Kconfig savedefconfig output
 /defconfig
